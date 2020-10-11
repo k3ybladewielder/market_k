@@ -1,6 +1,16 @@
 # market_k
 
-<br>Market K é um dataset FICTÍCIO mas com estrutura baseada em um dataset real, com histórico de compras sendo cada linha um produto (sku).
+<br>Market K é um dataset <b>FICTÍCIO</b> mas com estrutura baseada em um dataset real, com histórico de compras sendo cada linha um produto (sku).</br>
+
+# Tasks:
+1. Análises sobre positivação de clientes ou clientes distintos:
+2. Análises sobre vendas:
+3. Análises usando machine learning
+4. Market basket analysis:
+Por família;
+Por categoria;
+Por item;
+
 Descrição do dataset:</br>
 data = data da transação </br>
 id compra = id da transação, ex. número de nota fiscal </br>
@@ -19,12 +29,3 @@ sku = item, produto, etc.</br>
 quantidade = quantidade vendida.</br>
 preco und = valor de venda.</br>
 total pedido = total do pedido ou quantidade x preço.</br>
-
-# Tasks:
-1. Análises sobre positivação de clientes ou clientes distintos:
-2. Análises sobre vendas:
-3. Análises usando machine learning
-4. Market basket analysis:
-Por família;
-Por categoria;
-Por item;
