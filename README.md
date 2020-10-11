@@ -11,7 +11,7 @@ Por família;
 Por categoria;
 Por item;
 
-Descrição do dataset:</br>
+# Descrição do dataset:
 data = data da transação </br>
 id compra = id da transação, ex. número de nota fiscal </br>
 cod vendedor = código do vendedor que realizou a transação</br>
